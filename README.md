@@ -19,6 +19,8 @@ The USB interface of this unit is designed to work with most of the operating sy
 
 This keyer is designed to work with 7V to 16V DC input voltage. The most recommended working voltage is 9V.
 
+## Licenses
+
 This is an open hardware project and all it's design files, firmware source codes, and other resource files are available at the project source repository. All the content of this project are distributed under the terms of the following license:
 
 - Hardware License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
