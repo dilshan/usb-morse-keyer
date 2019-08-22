@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH340G
+D USB to serial converter
+K rs232, usb
+F http://wch.cn
+$ENDCMP
+#
+#End Doc Library
