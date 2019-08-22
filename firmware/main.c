@@ -393,6 +393,8 @@ void isrUART()
 
 void __interrupt() systemISR()
 {
+    // TODO: To handle stack-overflow in some CPUs, convert isrTimer0, isrTimer1 and isrUART to inline.   
+
     // Timer 0 ISR, reserved for low priority tasks such as monitoring UI ports.
     isrTimer0();
     
