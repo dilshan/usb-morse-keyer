@@ -1,8 +1,5 @@
 # USB Morse Keyer
-https://img.shields.io/badge/platform-PIC16-blue
-https://img.shields.io/github/license/dilshan/usb-morse-keyer
-https://img.shields.io/github/v/release/dilshan/usb-morse-keyer
-https://img.shields.io/github/release-date/dilshan/usb-morse-keyer
+![Platform](https://img.shields.io/badge/platform-PIC16-blue) ![License](https://img.shields.io/github/license/dilshan/usb-morse-keyer) ![Release Version](https://img.shields.io/github/v/release/dilshan/usb-morse-keyer) ![Release Date](https://img.shields.io/github/release-date/dilshan/usb-morse-keyer) 
 
 ![Morse Keyer Final Prototype](https://raw.githubusercontent.com/dilshan/usb-morse-keyer/master/resource/morse-keyer-final.jpg)
 
@@ -32,4 +29,5 @@ This is an open hardware project and all it's design files, firmware source code
 - Hardware License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Software License: [MIT](https://github.com/dilshan/usb-morse-keyer/blob/master/LICENSE)
 - Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 
