@@ -8,7 +8,7 @@ USB Morse Keyer is microcontroller based keyer with following features:
 - Support for both *standalone* and *USB* operating modes.
 - 64-character USB typeahead buffer and 6-character Morse key typeahead buffer.
 - Support 5, 10, 15 WPM.
-- 5-page message memory.
+- 6-page message memory.
 - 1W Audio output.
 - Audio and PTT output interfaces.
 - 32 character display
