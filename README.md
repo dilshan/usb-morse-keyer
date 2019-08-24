@@ -1,4 +1,8 @@
 # USB Morse Keyer
+https://img.shields.io/badge/platform-PIC16-blue
+https://img.shields.io/github/license/dilshan/usb-morse-keyer
+https://img.shields.io/github/v/release/dilshan/usb-morse-keyer
+https://img.shields.io/github/release-date/dilshan/usb-morse-keyer
 
 ![Morse Keyer Final Prototype](https://raw.githubusercontent.com/dilshan/usb-morse-keyer/master/resource/morse-keyer-final.jpg)
 
