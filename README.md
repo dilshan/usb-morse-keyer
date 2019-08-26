@@ -24,10 +24,11 @@ This keyer is designed to work with 7V to 16V DC input voltage. The most recomme
 
 ## Licenses
 
-This is an open hardware project and all it's design files, firmware source codes, [documentation](https://github.com/dilshan/usb-morse-keyer/wiki), and other resource files are available at the project source repository. All the content of this project are distributed under the terms of the following license:
+This is a [certified](https://certification.oshwa.org/lk000004.html) open hardware project and all it's design files, firmware source codes, [documentation](https://github.com/dilshan/usb-morse-keyer/wiki), and other resource files are available at the project source repository. All the content of this project are distributed under the terms of the following license:
 
 - Hardware License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Software License: [MIT](https://github.com/dilshan/usb-morse-keyer/blob/master/LICENSE)
 - Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+[![OSHW-LK000004](https://raw.githubusercontent.com/wiki/dilshan/usb-morse-keyer/images/OSHW-LK000004.png)](https://certification.oshwa.org/lk000004.html)
 
